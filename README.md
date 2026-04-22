@@ -2,7 +2,6 @@
 
 This repository contains five selected ambiguous questions from the Spider 2.0 Snow dataset. For each question, I provide multiple SQL interpretations that can reproduce different execution results, explain why the original question is ambiguous, and describe how the queries differ.
 
-The questions are ordered from strongest to weakest ambiguity.
 
 ## Selected Question IDs
 
